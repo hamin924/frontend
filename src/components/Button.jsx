@@ -16,7 +16,6 @@ font-weight: bold;
 display: inline-block;
 background: var(--main-color)
 
-
   
 `;
 

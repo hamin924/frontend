@@ -4,15 +4,13 @@ import './App.css';
 import React from 'react';
 
 
-function SingUp(){
+function Login(){
     return(
-        <div className = "SingUpPage">
             <div className="App">
                 <NavBar></NavBar>
                 <Modal/>
             </div>
-        </div>
     )
 }
 
-export default SingUp;
+export default Login;
